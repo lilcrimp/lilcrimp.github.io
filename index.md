@@ -2,9 +2,14 @@
 
 ---
 
-### Adventures
+### We love this for us
+---
 
-Fellas
+The gang
+<img src="images/the_gang.PNG?raw=true"/>
+---
+
+The better half
 <img src="images/fellas.jpg?raw=true"/>
 
 ---
@@ -26,7 +31,7 @@ Smol
 Climbing
 <img src="images/climbing.jpg?raw=true"/>
 
----
+
 
 
 ---
