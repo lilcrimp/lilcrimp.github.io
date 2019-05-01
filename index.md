@@ -1,8 +1,5 @@
-## Portfolio
 
----
-
-### We love this for us
+## We love this for us
 ---
 
 The gang
