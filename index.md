@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Adventures
 
 Fellas
 <img src="images/fellas.jpg?raw=true"/>
