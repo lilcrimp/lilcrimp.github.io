@@ -3,29 +3,37 @@
 ---
 
 The gang
+
 <img src="images/the_gang.PNG?raw=true"/>
+
 ---
 
 The better half
+
 <img src="images/fellas.jpg?raw=true"/>
 
 ---
+
 Monkey 1
+
 <img src="images/idiot_1.jpg?raw=true"/>
 
 ---
 
 Monkey 2
+
 <img src="images/idiot_2.jpg?raw=true"/>
 
 ---
 
 Smol
+
 <img src="images/smol.png?raw=true"/>
 
 ---
 
 Climbing
+
 <img src="images/climbing.jpg?raw=true"/>
 
 
