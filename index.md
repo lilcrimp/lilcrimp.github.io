@@ -4,30 +4,29 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Fellas
+<img src="images/fellas.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Monkey 1
+<img src="images/idiot_1.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Monkey 2
+<img src="images/idiot_2.jpg?raw=true"/>
 
 ---
 
+Smol
+<img src="images/smol.png?raw=true"/>
 
+---
+
+Climbing
+<img src="images/climbing.jpg?raw=true"/>
+
+---
 
 
 ---
